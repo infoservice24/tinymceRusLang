@@ -1,0 +1,21 @@
+{
+	"name": "tinymceRusLang",
+	"description": "Rus Lang for TinyMCE JS Plugin",
+	"license": "LGPL-2.1",
+	"keywords": [
+		"editor",
+		"wysiwyg",
+		"tinymce",
+		"richtext",
+		"javascript",
+		"html",
+		"lang"
+	],
+	"ignore": [
+		"readme.md",
+		"composer.json",
+		"package.json",
+		".npmignore",
+		"changelog.txt"
+	]
+}
